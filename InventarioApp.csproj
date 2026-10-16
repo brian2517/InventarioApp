@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+
+    <assemblyName>InventarioApp</assemblyName>
+    <RootNamespace>InventarioApp</RootNamespace>
+    <version>1.0.0</version>
+    <description>Aplicación de inventario para la gestión de productos y stock.</description>
+  </PropertyGroup>
+  
+</Project>
